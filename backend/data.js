@@ -21,7 +21,7 @@ const data = {
       countInStock: 60,
       brand: 'Lululemon',
       rating: 5.0,
-      numReviews: 32,
+      numReviews: 332,
       description: 'Uber high quality shirt',
     },
     {

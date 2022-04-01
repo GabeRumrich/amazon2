@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'nike slim shirt',
       slug: 'nike-slim-shirt',
       category: 'shirts',
@@ -13,11 +14,12 @@ const data = {
       description: 'High quality shirt',
     },
     {
+      _id: '2',
       name: 'Lululemon training shirt',
       slug: 'Lululemon-training-shirt',
       category: 'shirts',
       image: '/Images/work.jpeg',
-      price: 69,
+      price: 75,
       countInStock: 60,
       brand: 'Lululemon',
       rating: 5.0,
@@ -25,6 +27,7 @@ const data = {
       description: 'Uber high quality shirt',
     },
     {
+      _id: '3',
       name: 'Lululemon dress pants',
       slug: 'Lululemon-dress-pants',
       category: 'Pants',
@@ -37,6 +40,7 @@ const data = {
       description: 'Uber high quality Pants',
     },
     {
+      _id: '4',
       name: 'Birddogs training shorts',
       slug: 'Birddogs-training-shorts',
       category: 'shorts',
